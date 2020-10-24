@@ -6,5 +6,8 @@ Pasta
 Burrito
 Chicken
 
+Beans
+Pizza
+
 
 thank you!
